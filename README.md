@@ -1,4 +1,4 @@
-# docker-backupninja
+# docker-hsqldb
 Dockerfile for HSQLDB
 
 ## Instructions
